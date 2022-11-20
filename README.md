@@ -17,8 +17,6 @@ Bash scripts developed to the first project in Linux course at DIO.
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<br>
-
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
